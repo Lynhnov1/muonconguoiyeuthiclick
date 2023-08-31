@@ -25,13 +25,7 @@ code {
     animation: app-logo-spin infinite 20s linear;
   }
 }
-a:hover {
-  border: 2px solid purple;
-  padding: 10px;
-  border-radius: 25px;
-  color: white;
-  background-color: plum;
-}
+
 .app-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -78,7 +72,7 @@ a:hover {
   100% {background: red}
 }
 
-.app p{
+.app a{
   animation: myfirst 5s infinite  alternate;
   border-radius: 2px;
   padding:2% 2%;
